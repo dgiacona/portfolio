@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Dominic Giacona",
-      "titles": [ "Fullstack and Python Developer" ],
+      "titles": [ "USN Veteran | College Grad | UX/UI Product Designer | Software Engineer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/dgiacona",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/dominic_giacona/?hl=en",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "headshot.png"
     },
     "skills": {
       "icons": [
