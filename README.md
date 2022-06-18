@@ -1,3 +1,4 @@
 # Modify this portfolio
 
-Make it your own! 
+URL: to personal site
+https://dominicgiacona.netlify.app
