@@ -1,3 +1,5 @@
 # Modify this portfolio
-initial commit
-Make it your own! 
+
+
+URL: to personal site
+https://dominicgiacona.netlify.app
