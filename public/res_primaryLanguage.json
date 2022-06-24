@@ -11,38 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Take Ten App",
+        "startDate": "2022",
+        "description": "Take Ten is an app that we built for our final project in 201. The app allows users to generate a random workout circuit so they have a perfectly formulated workout to execute.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/taketen.png",
+          "images/workout.png"
         ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
+        "url": "https://201-djkm.github.io/201-task-tracker/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,63 +31,77 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Sour Strips",
+        "startDate": "2021",
+        "description": "Used my UX/UI skills toe redesign the Sour Strips website. Improving overall customer experience and the updated design led to a boost in sales.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/SourStrips.png",
+          "images/Candy.png"
         ],
-        "url": "https://github.com",
+        "url": "https://shop.sourstrips.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2022",
+        "description": "Salmon Cookies was a 201 project as well that we completed. We created a store front for a store owner to sell salmon cookies with the ability to add a new store and track store activity.",
+        "images": [
+          "images/salmon cookies.png",
+          "images/store.png"
+        ],
+        "url": "https://dgiacona.github.io/cookie-stand/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Exobyte",
+        "title": "UX/UI Product Designer",
+        "years": "10.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "HTML/CSS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Figma",
+          "Photoshop",
+          "Prototyping",
+          "Wireframes",
+          "research",
+          "Mobile Adpp Design",
+          "Web Design"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "04.2022 - 09.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Fullstack Developer"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML",
+          "CSS",
+          "React",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Node.js"
         ]
       }
     ]
